@@ -1,16 +1,31 @@
-## Hi there 👋
+# Ned Donovan
 
-<!--
-**neddonovan1-crypto/neddonovan1-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Police officer, writer and investor, with a background in policing in Britain and the United States and international journalism.
 
-Here are some ideas to get you started:
+I’m interested in public safety, geography and useful technology. My projects range from a local surf dashboard to games about the decisions people make under pressure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Website & writing](https://neddonovan.co)
+
+## Selected projects
+
+### [Folly Surf](https://github.com/neddonovan1-crypto/follysurf)
+
+A free dashboard for Folly Beach conditions: waves, wind, tides, coastal observations and a published surf-index formula. Built to make the available information easier to use, with its sources and limits visible.
+
+[Open the dashboard](https://follysurf.com/dashboard/) · [Project overview](https://github.com/neddonovan1-crypto/follysurf)
+
+### [Proposed Frontiers](https://github.com/neddonovan1-crypto/proposed-frontiers)
+
+Draw a political map in January 1916, then follow an alternate-history chronicle shaped by your choices. An interactive exploration of geography, competing interests and unintended consequences.
+
+[Play the game](https://sykespicot.io) · [Project overview](https://github.com/neddonovan1-crypto/proposed-frontiers)
+
+### [Duty Guvnor](https://github.com/neddonovan1-crypto/duty_guvnor)
+
+A darkly comic police night-shift management game set in 1975. Balance public order, senior officers and your shift’s morale while making decisions with limited people, time and cell space.
+
+[Play the game](https://dutyguvnor.com) · [Source & documentation](https://github.com/neddonovan1-crypto/duty_guvnor)
+
+---
+
+Folly Surf and Proposed Frontiers have public project guides here; their production source is maintained privately. Duty Guvnor includes its source and development documentation.
