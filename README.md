@@ -12,13 +12,13 @@ I’m interested in public safety, geography and useful technology. My projects 
 
 A free dashboard for Folly Beach conditions: waves, wind, tides, coastal observations and a published surf-index formula. Built to make the available information easier to use, with its sources and limits visible.
 
-[Open the dashboard](https://follysurf.com/dashboard/) · [Project overview](https://github.com/neddonovan1-crypto/follysurf)
+[Open the dashboard](https://follysurf.com/dashboard/) · [Source & documentation](https://github.com/neddonovan1-crypto/follysurf)
 
 ### [Proposed Frontiers](https://github.com/neddonovan1-crypto/proposed-frontiers)
 
 Draw a political map in January 1916, then follow an alternate-history chronicle shaped by your choices. An interactive exploration of geography, competing interests and unintended consequences.
 
-[Play the game](https://sykespicot.io) · [Project overview](https://github.com/neddonovan1-crypto/proposed-frontiers)
+[Play the game](https://sykespicot.io) · [Source & documentation](https://github.com/neddonovan1-crypto/proposed-frontiers)
 
 ### [Duty Guvnor](https://github.com/neddonovan1-crypto/duty_guvnor)
 
@@ -28,4 +28,4 @@ A darkly comic police night-shift management game set in 1975. Balance public or
 
 ---
 
-Folly Surf and Proposed Frontiers have public project guides here; their production source is maintained privately. Duty Guvnor includes its source and development documentation.
+All three projects are **vibe coded**: built and iterated with AI coding assistants. Each public repository includes source code and development documentation. Folly Surf and Proposed Frontiers are published source snapshots; their release notes identify the source revision and publication date.
